@@ -1,0 +1,15 @@
+{
+
+    "telegramApiKey": "5789052",
+
+    "botUsername": "dimasjawaban_bot",
+
+    "firebaseProjectName": "lord-project-2",
+
+    "firebaseDatabaseSecret": "1f42ddc7803c3922edc399a6b491e531428caae3",
+
+    "mentionsPerMessage": 99999,
+
+    "enableRemoveInactiveMembersCommand": false
+
+}
